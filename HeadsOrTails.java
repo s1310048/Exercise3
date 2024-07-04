@@ -18,5 +18,7 @@ public class HeadsOrTails{
                 tailsCount++;
             }
         }
+        
+        System.out.println("Heads " + headsCount + ",Tails " + tailsCount);
     }
 }
